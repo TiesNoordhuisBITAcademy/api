@@ -30,7 +30,7 @@ fetch(// Zet hier je URL)
     })
 ```
 
-# opdracht 3
+## opdracht 3
 Schrijf javascript code die bij het klikken van de like knop, het aantal likes in de json verhoogt. Je kan de volgende code gebruiken als startpunt:
 
 ```javascript
